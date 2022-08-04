@@ -1,2 +1,2 @@
 # SANBlaze_Lib
-Simple API Testing for SANBlaze Server
+Simple API Wrapper Testing for SANBlaze Server
