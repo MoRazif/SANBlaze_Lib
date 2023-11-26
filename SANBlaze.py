@@ -155,9 +155,9 @@ def vlunTaskManagement(command): # Port 8 and 9
     print(req.read().decode())
     print(strftime("%Y-%m-%d %H:%M:%S"))
 
-#Start = vlunStartTest(8,'Write', 1, 4, 0)
+Start = vlunStartTest(8,'Write', 1, 4, 0)
 #Stop = vlunStopTest(8)
-Start = vlunTaskManagement('BusReset')
+#Start = vlunTaskManagement('BusReset')
 
 
 
